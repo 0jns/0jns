@@ -1,6 +1,6 @@
 <!-- MATRIX RAIN BACKGROUND -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZib2NzMm9zejlkMzR0YTlmcDlzcmRqaWJ3YXl2YjJ5ZTZiYnZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZM5Z7WZMRbb6E/giphy.gif" width="70%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZib2NzMm9zejlkMzR0YTlmcDlzcmRqaWJ3YXl2YjJ5ZTZiYnZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZM5Z7WZMRbb6E/giphy.gif" width="80%"/>
 </p>
 
 <!-- GLITCH HEADER -->
