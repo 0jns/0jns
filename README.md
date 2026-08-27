@@ -1,6 +1,6 @@
 <!-- MATRIX RAIN BACKGROUND -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZib2NzMm9zejlkMzR0YTlmcDlzcmRqaWJ3YXl2YjJ5ZTZiYnZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZM5Z7WZMRbb6E/giphy.gif" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZib2NzMm9zejlkMzR0YTlmcDlzcmRqaWJ3YXl2YjJ5ZTZiYnZ5OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZM5Z7WZMRbb6E/giphy.gif" width="70%"/>
 </p>
 
 <!-- GLITCH HEADER -->
@@ -15,7 +15,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=HeLLxGodLike&color=blue&style=flat-square&label=Profile+Views)
 #### You can find me at
-[![discord badge](https://img.shields.io/badge/@boostsd-30302f?style=for-the-badge&logo=discord)](https://discord.gg/r88DUkNY)
+[![discord badge](https://img.shields.io/badge/@ginrtx-30302f?style=for-the-badge&logo=discord)](https://discord.gg/EeMSVemr)
 
 
 <img src="https://img.shields.io/badge/status-debugging_life-00ff41?style=for-the-badge"/>
@@ -31,16 +31,24 @@
 - [x] 🚫Know coding
 - [ ] ✅Boring asf
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ginn&bg_color=000000&color=00ff41&line=00ff41&point=ffffff&hide_border=true"/>
+## 🧰 Random Bs
 
+| Technology | Purpose |
+|---|---|
+| React | Frontend UI |
+| TypeScript | Type safety |
+| Node.js | Backend API |
+| PostgreSQL | Database |
+| Docker | Containerization |   
 
  🔗 CONTACT
-<p align="center"> <a href="https://discord.gg/r88DUkNY"> <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41"/> </a> <a href="https://github.com/4jns"> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> </p>
+<p align="center"> <a href="https://discord.gg/EeMSVemr"> <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=00ff41"/> </a> <a href="https://github.com/ginrtx"> <img src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=00ff41"/> </a> </p>
 
 ⚙️ TECH STACK
 <p align="center"> <img src="https://skillicons.dev/icons?i=linux,js,ts,python,cpp,nodejs,react,git,vscode,html,css&theme=dark"/> </p>
+
 📊 TERMINAL STATS
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HeLLxGodLike&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/> <img src="https://streak-stats.demolab.com?user=HeLLxGodLike&theme=chartreuse-dark&hide_border=true&background=000000"/> </p>
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=ginrtx&theme=tokyonight)](https://github.com/ginrtx)
 
 <details>
 <summary>🕳️ CLICK HERE FOR A COOKIE 🍪!</summary>
